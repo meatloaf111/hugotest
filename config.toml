@@ -1,5 +1,8 @@
-baseURL = "http://meatloaf111.github.io/hugotest"
+baseURL = "http://meatloaf111.github.io/hugotest/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anybodyhome"
 canonifyurls = true
+
+publishdir = "public"
+
